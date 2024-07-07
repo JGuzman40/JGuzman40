@@ -4,7 +4,11 @@
 
 ## Sobre mí
 
-Desarrolladora apasionado por la tecnología y la creación de soluciones innovadoras. Me especializo en diseño y disfruto trabajar con las siguientes tecnologías:
+Estudiante de Desarrollo Full Stack
+
+Apasionada por la tecnología y la creación de soluciones innovadoras.
+
+Me especializo en trabajar con las siguientes tecnologías:
 
 ---
 
