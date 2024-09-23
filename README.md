@@ -4,9 +4,14 @@
 
 ## Sobre mí
 
-Estudiante de Desarrollo Full Stack
 
-Apasionada por la tecnología y la creación de soluciones innovadoras.
+Soy desarrolladora Full Stack, apasionada por la tecnología y dedicada a crear soluciones innovadoras 
+que resuelvan problemas reales. Con experiencia en React, Redux, Node.js, Express.js, y PostgreSQL, 
+entre otras tecnologías, me especializo en el desarrollo de aplicaciones web escalables y eficientes. 
+Mi enfoque está en optimizar procesos operativos y mejorar la experiencia de usuario 
+a través de interfaces intuitivas y funcionalidades robustas. 
+Siempre estoy en búsqueda de nuevas oportunidades para aprender y crecer, 
+con el objetivo de contribuir al desarrollo de productos que generen impacto positivo en la vida de las personas.
 
 Me especializo en trabajar con las siguientes tecnologías:
 
