@@ -71,8 +71,8 @@ Me especializo en trabajar con las siguientes tecnologías:
 ## Contacto
 
 - **Correo:** [jesuguzman958@example.com]
-- **LinkedIn:** [tu-linkedin]
-- **Twitter:** [tu-twitter]
+- **LinkedIn:** [https://www.linkedin.com/in/jesu-guzm%C3%A1n-87791628b/]
+- **Blog Profesional** [https://jesuguzman958.wixsite.com/blog-de-jesu-guzm]
 
 ---
 
